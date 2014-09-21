@@ -1,8 +1,7 @@
 Matrix-Java
 ===========
+My profile has changed to https://github.com/karthikvthota
 
-My profile has changed to github.com/karthikvthota
-
-Please visit github.com/karthikvthota to view all my work
+Please visit https://github.com/karthikvthota to view all my work
 
 Thanks
